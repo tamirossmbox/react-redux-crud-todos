@@ -1,2 +1,2 @@
-# react-redux-crud-todos
-Created with CodeSandbox
+# CRUD with ReactJS & react-redux, using hooks
+
